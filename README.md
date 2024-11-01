@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasverma42&theme=algolia" alt="manasverma42" /></a> </p>
 
 - 👨‍💻 [My Portfolio](https://portfolio-five-gamma-40.vercel.app/)
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate with fellow developers on exciting projects!
 - ⚡ Fun fact: I love to play football, table tennis and volleyball.
 
